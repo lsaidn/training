@@ -1,0 +1,13 @@
+Edit file /etc/sudoers atau /etc/sudoers.d/usermu
+
+vim /etc/sudoers
+
+
+student ALL=(ALL) ALL
+
+
+---
+
+vim /etc/sudoers.d/student
+
+student ALL=(ALL) ALL
